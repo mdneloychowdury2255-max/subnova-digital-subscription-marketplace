@@ -5,6 +5,8 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    // Project Pages base (repo hosted at /subnova-digital-subscription-marketplace/)
+    base: '/subnova-digital-subscription-marketplace/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
