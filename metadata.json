@@ -1,0 +1,6 @@
+{
+  "name": "SubNova - Digital Subscription Marketplace",
+  "description": "Premium digital subscription marketplace with customer, reseller, and admin portals, automated wallet system, order tracking, and live catalog management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
